@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+
+@font-face {
+    font-family: 'font1';
+    src: url('../font/UnifrakturMaguntia-Regular.ttf');
+}
+@font-face {
+    font-family: 'font2';
+    src: url(../font/AntonSC-Regular.ttf);
+}
+.font1 {
+    font-family: 'font1';
+}
+.f {
+    font-family:'font2';
+}
