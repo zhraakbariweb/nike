@@ -14,8 +14,6 @@
 
 </div>
 
-> Add a screenshot of your site to `assets/img/preview.png`.
-
 ---
 # NIKE
 **A bold, responsive landing page inspired by Nike and the Air Jordan legacy.**
