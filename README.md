@@ -2,8 +2,8 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg" alt="Nike Logo" width="140"/>
 
-<br>
-
+# NIKE
+---
 <div align="center">
 
 
@@ -14,8 +14,7 @@
 
 </div>
 
----
-# NIKE
+
 **A bold, responsive landing page inspired by Nike and the Air Jordan legacy.**
 
 ![Live Demo](https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=githubpages&logoColor=white)
